@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **ElevenFifty Full Stack Course**
+- 🔭 I’m currently working on **Getting a Job!**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [ccmalcom.github.io](ccmalcom.github.io)
 
