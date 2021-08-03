@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Getting a Job!**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [ccmalcom.github.io](ccmalcom.github.io)
 
