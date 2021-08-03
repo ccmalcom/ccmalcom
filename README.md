@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://chasemalcom.com](ccmalcom.github.io)
+- 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
 - 📫 How to reach me **https://linkedin.com/in/chase-malcom**
 
