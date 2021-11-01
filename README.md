@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **Getting a Job!**
+- 🔭 I’m currently working on **Object Oriented Programming**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
