@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object Oriented Programming**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java && Next.js**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
