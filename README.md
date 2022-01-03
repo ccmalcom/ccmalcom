@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **ORACLE EBS**
+- 🔭 I’m currently working on **Salesforce Platform Developer Certification I**
 
-- 🌱 I’m currently learning **PL/SQL && Next.js**
+- 🌱 I’m currently learning **Oracle E-Business Suite, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
