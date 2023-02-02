@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **Building Mobile Apps**
+- 🔭 I’m currently working on **Building Native Mobile Apps**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Salesforce/vlocity OmniOut**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
