@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **Salesforce/vlocity OmniStudio** and **Advent of Code**
+- 🔭 I’m currently working on **Salesforce/vlocity OmniStudio** 
 
-- 🌱 I’m currently learning **Everything about JavaScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
