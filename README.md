@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" /> </p>
 
-- 🔭 I’m currently working on **Web App to Find Concerts based on Spotify Top Artists** and **Portflio Website v2**
+- 🔭 I’m currently working on **Spotify Concert Finder** and **Portflio Website v2**
 
 - 🌱 I’m currently learning **Next.js**
 
