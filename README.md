@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Indiana AID Website Redesign** and **Portflio Website v2**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://chasemalcom.com](https://chasemalcom.com)
 
