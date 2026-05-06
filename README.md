@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [chasemalcom.com](https://chasemalcom.com)
 - 💼 By day: Salesforce LWC, Apex, and Experience Cloud. By night: Next.js, React, and whatever rabbit hole I'm in.
 - 📫 Reach me at [linkedin.com/in/chase-malcom](https://linkedin.com/in/chase-malcom)
-- ⚡ Fun fact: **I used to be a band director — turns out debugging Apex and conducting a middle school band require similar energy.**
+- ⚡ Fun fact: **I used to be a band director**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
