@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ccmalcom&label=Profile%20views&color=0e75b6&style=flat" alt="ccmalcom" />
 </p>
 
-- 🔭 I'm currently working on **Indiana AID Website Redesign** and **Google Calendar Sync Wizard**
+- 🔭 I'm currently working on **Claude Developer Certification** and **my-library app**
 - 🌱 I'm currently diving deeper into **Salesforce Platform Developer II** and **AI-powered tooling**
 - 👨‍💻 All of my projects are available at [chasemalcom.com](https://chasemalcom.com)
 - 💼 By day: Salesforce LWC, Apex, and Experience Cloud. By night: Next.js, React, and whatever rabbit hole I'm in.
